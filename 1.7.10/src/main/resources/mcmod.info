@@ -1,0 +1,16 @@
+[
+{
+  "modid": "extracraftingstorage",
+  "name": "ExtraCraftingStorage",
+  "description": "A Minecraft Mod that adds Extracells Crafting Storages to AE2",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Yohann", "Zoko061602"],
+  "credits": "Source by Zoko and updated by Yohann.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
